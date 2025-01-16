@@ -33,6 +33,7 @@ Start the dev server
 ## How to Use
 
 -   Use the 'src' folder for all project files.
+-   -   REACT JS
     -   HTML
     -   JS
     -   SCSS
